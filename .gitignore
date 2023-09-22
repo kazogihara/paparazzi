@@ -1,0 +1,14 @@
+# ./imgフォルダとその配下を除外
+img/
+
+# yolov5s.pt ファイルを除外
+yolov5s.pt
+
+# __pycache__ ディレクトリを除外
+__pycache__/
+
+# node_modules ディレクトリを除外
+GeoObjectSaver/node_modules/
+
+# メモを除外
+prompt.txt
